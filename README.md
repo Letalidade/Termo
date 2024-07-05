@@ -1,0 +1,1 @@
+Download the files and run in java with all the files in the same folder, so then the game can run, it's a game called "Termo" pretty famous in Brazil that you have six chances to guess the word that have 5 letters, and if you can't you lose 
